@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\frgnd\Music\CS1010301W10\TS0604\VecNf.h(14): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+  VecNf.cpp
+C:\Users\frgnd\Music\CS1010301W10\TS0604\VecNf.h(14): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+  正在產生程式碼...
+C:\Users\frgnd\Music\CS1010301W10\TS0604\VecNf.cpp(38): warning C4715: 'VecNf::operator[]': 不是所有控制路徑都傳回值
+  TS0604.vcxproj -> C:\Users\frgnd\Music\CS1010301W10\x64\Debug\TS0604.exe

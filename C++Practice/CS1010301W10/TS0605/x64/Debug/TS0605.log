@@ -1,0 +1,3 @@
+﻿  Creature.cpp
+C:\Users\frgnd\Music\CS1010301W10\TS0605\Creature.cpp(57): warning C4715: 'Creature::operator=': 不是所有控制路徑都傳回值
+  TS0605.vcxproj -> C:\Users\frgnd\Music\CS1010301W10\x64\Debug\TS0605.exe
