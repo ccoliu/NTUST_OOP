@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\CS1010301W04\TS0303\Source.cpp(24,28): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\user\Desktop\CS1010301W04\TS0303\Source.cpp(58,28): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0303.vcxproj -> C:\Users\user\Desktop\CS1010301W04\x64\Debug\TS0303.exe

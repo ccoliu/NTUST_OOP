@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\frgnd\Music\資工物件導向\CS1010301W03\TS0205\Source.cpp(23,35): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\frgnd\Music\資工物件導向\CS1010301W03\TS0205\Source.cpp(24,36): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0205.vcxproj -> C:\Users\frgnd\Music\資工物件導向\CS1010301W03\x64\Debug\TS0205.exe
